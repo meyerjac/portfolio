@@ -1,20 +1,28 @@
-html  {background-color: rgba(27, 126, 68, 0.62);}
+html  {
+  background-color: rgba(27, 126, 68, 0.62);
+}
 
-body {padding-top: 30px;
-  rgba(27, 126, 68, 0.62);
+body {
+  padding-top: 30px;
+  color: rgba(27, 126, 68, 0.62);
   margin-bottom: 50px;
-margin-top: 60px
+  margin-top: 60px
 }
 
 
-.jumbotron {margin-top: 50px;
-float: left;}
+.jumbotron {
+  margin-top: 50px;
+  float: left;
+}
 
 
-.col-md-4 {margin-top: 20px;
-margin-left: 1px}
+.col-md-4 {
+  margin-top: 20px;
+  margin-left: 1px
+}
 
-.jumboheading {color: rgba(27, 126, 68, 0.62);
+.jumboheading {
+  color: rgba(27, 126, 68, 0.62);
   text-align: center;
 }
 
@@ -30,11 +38,21 @@ margin-left: 1px}
   color: rgba(27, 126, 68, 0.62);
   font-family: fantasy;
   font-weight: bolder;
-
 }
 
-.glyphicon {font-size: 3em;
-display: flex;
-text-align: center;
-color: rgba(131, 37, 59, 1);
+.glyphicon {
+  font-size: 3em;
+  display: flex;
+  text-align: center;
+  color: rgba(131, 37, 59, 1);
+}
+
+.important{
+color: red;
+}
+
+.linkstoprojects{
+
+float:right
+display:inline-block; 
 }
