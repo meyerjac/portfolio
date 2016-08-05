@@ -1,8 +1,39 @@
-.jumbotron {margin-top: 50px;}
+html  {background-color: rgba(27, 126, 68, 0.62);}
 
-.page-header {margin-bottom: 20px;}
+body {padding-top: 30px;
+  rgba(27, 126, 68, 0.62)
 
-.col-4 {margin: 40px;
-background-color: #2255c3;}
+}
 
-.jumboheading {color: rgba(27, 126, 68, 0.62)}
+
+.jumbotron {margin-top: 50px;
+float: left;}
+
+
+.col-md-4 {margin-top: 20px;
+margin-left: 1px}
+
+.jumboheading {color: rgba(27, 126, 68, 0.62);
+  text-align: center;
+}
+
+.img-responsive{
+  margin-top: 50px;
+  display: inline;
+  padding-left: 10px;
+}
+
+
+.infotitle {
+  text-align: center;
+  color: rgba(27, 126, 68, 0.62);
+  font-family: fantasy;
+  font-weight: bolder;
+
+}
+
+.glyphicon {font-size: 3em;
+display: flex;
+text-align: center;
+color: rgba(131, 37, 59, 1);
+}
