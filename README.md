@@ -7,7 +7,7 @@
 ## Description
 
 _This is our week 1 code review project: to create an online resume for our programming projects_
-_this is the link to find my portfolio: file:///Users/jacksonmeyer/Desktop/portfolio/index.html_
+_this is the link to find my amazing portfolio: file:///Users/jacksonmeyer/Desktop/portfolio/index.html_
 
 ## Setup/Installation Requirements
 
