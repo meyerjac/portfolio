@@ -1,4 +1,4 @@
-html  {
+html {
   background-color: rgba(27, 126, 68, 0.62);
 }
 
@@ -6,19 +6,17 @@ body {
   padding-top: 30px;
   color: rgba(27, 126, 68, 0.62);
   margin-bottom: 50px;
-  margin-top: 60px
+  margin-top: 60px;
 }
-
 
 .jumbotron {
   margin-top: 50px;
   float: left;
 }
 
-
 .col-md-4 {
   margin-top: 20px;
-  margin-left: 1px
+  margin-left: 1px;
 }
 
 .jumboheading {
@@ -26,12 +24,11 @@ body {
   text-align: center;
 }
 
-.img-responsive{
+.img-responsive {
   margin-top: 50px;
   display: inline;
   padding-left: 10px;
 }
-
 
 .infotitle {
   text-align: center;
@@ -47,12 +44,25 @@ body {
   color: rgba(131, 37, 59, 1);
 }
 
-.important{
-color: red;
+.important {
+  color: red;
 }
 
-.linkstoprojects{
+.linkstoprojects {
+  float:right
+  display:inline-block;
+}
+.footer {
+  text-align: center;
+  color: red;
+  padding-top: 3em;
+}
 
-float:right
-display:inline-block; 
+.para {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+.glyphicon-download-alt {
+  margin-left: 10em;
 }
